@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Max Uroda
 
-- Senior Magento Developer, Software Engineer @ [maxuroda.pro](https://maxuroda.pro)
+- Senior Adobe Commerce (Magento) Developer, Software Engineer @ [maxuroda.pro](https://maxuroda.pro)
 - [Adobe Certified Professional—Magento Commerce Developer (Magento 2 Certified Associate Developer)](https://www.credly.com/badges/4eb82b29-334b-432d-9b3d-2482cc025a5b)
 - [Adobe Certified Expert-Magento Commerce Front-End Developer (Magento 2 Certified Front End Developer)](https://www.credly.com/badges/d1418cb5-79ff-4497-961f-4b879afd973a)
 - [Magento 1 Certified Developer Plus](https://u.magento.com/certification/directory/dev/1122780/)
@@ -17,8 +17,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=u-maxx)](https://git.io/streak-stats)
 
 - 👀 I’m interested in Magento 2, Docker, CI/CD, Performance optiomizations, Hyvä
-- 🌱 I’m currently learning Magento 2, Hyvä
-- 💞️ I’m looking to collaborate on any Magento 2, CI/CD or Docker related projects
+- 🌱 I’m currently learning AI / ML / Python / Flutter
+- 💞️ I’m looking to collaborate on any Magento 2, AI / ML / Python / Flutter
 - 📫 How to reach me  - (contact (@) maxuroda.pro)
 
 <!--
